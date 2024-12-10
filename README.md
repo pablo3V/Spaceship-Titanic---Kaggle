@@ -6,4 +6,4 @@ This repository contains the notebook with all the process from the beginning to
 
 ## Description
 
-All the problem information can be found at [Kaggle]{https://www.kaggle.com/competitions/spaceship-titanic/overview}.
+All the problem information can be found at [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview).
